@@ -1,0 +1,38 @@
+CONTROLS
+
+1 -> driver view
+2 -> rooftop view
+3 -> sliding box view
+4 -> search light view
+5 -> wheel view
+6 -> overhead view
+7 -> helicopter cam
+8 -> top view
+
+___left car___
+a -> turns left
+d -> turns right
+w -> accelerates
+s -> decelerates
+
+___right car___
+LEFT_BUTTON -> turns left
+RIGHT_BUTTON -> turns right
+UP_BUTTON -> accelerates
+DOWN_BUTTON -> decelerates
+
+q -> sunrise
+e -> sunset
+
++ -> increase ambient intensity
+- -> decrease ambient intensity
+
+o -> toggle fog
+i -> increase fog intensity
+p -> decrease fog intensity
+
+z,x -> pillar properties
+
+c -> toggle diffused property
+v -> toggle specular property
+b -> toggle emissive property
