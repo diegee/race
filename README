@@ -1,5 +1,5 @@
 RACE
-This a two player racing game built in OpenGL using features like colliding physics, textures,
+This is a two player racing game built in OpenGL using features like colliding physics, textures,
 lighting(specular and diffused), shadowing etc. The controls for this game is given below.
 
 CONTROLS
